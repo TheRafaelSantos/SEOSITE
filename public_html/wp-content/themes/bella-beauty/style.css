@@ -1,0 +1,21 @@
+@charset "UTF-8";
+/*
+Theme Name: Bella Beauty
+Theme URI: https://bella-beauty.cmsmasters.net/
+Author: cmsmasters
+Author URI: https://cmsmasters.net/
+Description: Bella Beauty - Medical Spa, Plastic Surgery and Beauty Clinic Wordpress Theme for Elementor is a all-in-one aesthetical care clinic theme – it has all the needed dedicated medical functionality and clean style, so that lets you set up a beauty clinic, as well as a aesthetic medical clinic website. It comes with custom post types to showcase the Medical Services and Doctors Profiles.
+Version: 1.0.6
+License:
+License URI:
+Text Domain: bella-beauty
+Domain Path: /theme-config/languages
+Tags: one-column, two-columns, three-columns, four-columns, left-sidebar, right-sidebar, custom-background, custom-colors, custom-header, custom-menu, editor-style, featured-image-header, featured-images, flexible-header, full-width-template, microformats, post-formats, rtl-language-support, sticky-post, theme-options, threaded-comments, translation-ready
+*/
+
+
+.sticky,
+.bypostauthor,
+.screen-reader-text {
+  outline: none;
+}

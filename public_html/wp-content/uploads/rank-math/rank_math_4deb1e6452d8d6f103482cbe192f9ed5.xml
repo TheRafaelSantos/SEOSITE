@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//soulmusa.com.br/main-sitemap.xsl"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+	<Document>
+		<name>Locations for Soul Musa - Clínica de Estética na Vila Andrade</name>
+		<open>1</open>
+		<Folder>
+			<atom:link href="https://soulmusa.com.br" />
+			<Placemark>
+				<name><![CDATA[Soul Musa - Clínica de Estética na Vila Andrade]]></name>
+				<description><![CDATA[Soul Musa - Clínica de Estética na Vila Andrade - Clinica Avançada de Estética]]></description>
+				<address><![CDATA[AV Giovanni Gronchi, 6195 - Vila Andrade, São Paulo, São Paulo, 05724-003, Brasil]]></address>
+				<phoneNumber><![CDATA[+5511988699014]]></phoneNumber>
+				<atom:link href="https://soulmusa.com.br"/>
+				<LookAt>
+					<latitude>-23.6336287</latitude>
+					<longitude>-46.7366238</longitude>
+					<altitude>0</altitude>
+					<range></range>
+					<tilt>0</tilt>
+				</LookAt>
+				<Point>
+					<coordinates>-46.7366238,-23.6336287</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+	</Document>
+</kml>

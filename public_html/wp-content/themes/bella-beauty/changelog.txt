@@ -1,0 +1,43 @@
+== Changelog ==
+
+
+= 1.0.6 - 2024-10-09 =
+* Tweak: Added caching in API requests for optimization.
+* Tweak: Fixed updating default colors in customize event calendar settings when theme uses rgba color format.
+* Tweak: Add possibility to loading installation log.
+* Bux Fix: Fixed woocommerce products import.
+* Bug Fix: Fixed duplication on import.
+
+
+= 1.0.5 - 2024-08-22 =
+* Tweak: Changed installation notices.
+* Bug Fix: Fixed svg icons on import.
+
+
+= 1.0.4 - 2024-08-14 =
+* Bug Fix: Fixed error on check sitewide location in kit.
+* Bug Fix: Fixed duplication elementor templates on import.
+* Bug Fix: Removed font-weight: bolder; in b, strong for correct view in editor and frontend
+
+
+= 1.0.3 - 2024-07-10 =
+* Tweak: Increase timeout in requests.
+* Tweak: Improved importer for different servers.
+* Tweak: Added cached to import revslider.
+* Tweak: Added tribe-events templates import.
+* Bug Fix: Fixed deprecation PHP syntax.
+
+
+= 1.0.2 - 2024-05-20 =
+* Bug Fix: Fixed deprecations for php 8.2.
+
+
+= 1.0.1 - 2024-05-08 =
+* Tweak: Added `Icon Animation Type` control for `Lazyload Widget`.
+* Tweak: Added functionality for license-data updating.
+* Tweak: Added client data functionality to installer.
+* Tweak: Added client data functionality to theme activation.
+
+
+= 1.0.0 - 2021-09-06 =
+* Release

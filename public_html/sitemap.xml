@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <sitemap>
+    <loc>https://soulmusa.com.br/sitemap_index.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://soulmusa.com.br/sitemap-destaques.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://soulmusa.com.br/post-sitemap.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://soulmusa.com.br/page-sitemap.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://soulmusa.com.br/tratamento-corporal-sitemap.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://soulmusa.com.br/tratamentos-faciais-sitemap.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://soulmusa.com.br/cmsms_doctor-sitemap.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://soulmusa.com.br/local-sitemap.xml</loc>
+  </sitemap>
+    <sitemap>
+    <loc>https://soulmusa.com.br/sitemap-imagens.xml</loc>
+  </sitemap>
+</sitemapindex>
+
