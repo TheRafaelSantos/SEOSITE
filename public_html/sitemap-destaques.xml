@@ -96,5 +96,10 @@
     <priority>0.5</priority>
     <changefreq>monthly</changefreq>
   </url>
+  <url>
+    <loc>https://soulmusa.com.br/tratamento-corporal/mounjaro/</loc>
+    <priority>1.0</priority>
+    <changefreq>weekly</changefreq>
+  </url>
 
 </urlset>

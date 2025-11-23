@@ -7,16 +7,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: GlotPress/4.0.1\n"
+"X-Generator: GlotPress/4.0.3\n"
 "Language: pt_BR\n"
 "Project-Id-Version: Plugins - WP Consent API - Stable (latest release)\n"
 
-#. Author of the plugin
-#: wp-consent-api.php
-msgid "wordpressdotorg"
-msgstr "wordpressdotorg"
-
-#: api.php:283
+#: inc/api-functions.php:434
 msgid "Missing consent category. A functional, preferences, statistics-anonymous, statistics or marketing category should be passed when using wp_setcookie."
 msgstr "Categoria de consentimento não existe. Ao se usar wp_setcookie, deve-se passar uma das categorias Funcional, Preferências, Estatísticas-anônimas, Estatísticas ou Marketing."
 
@@ -25,47 +20,36 @@ msgstr "Categoria de consentimento não existe. Ao se usar wp_setcookie, deve-se
 msgid "Consent Level API to read and register the current consent level for cookie management and improving compliance with privacy laws."
 msgstr "API Consent Level para ler e registrar o atual nível de consentimento para a gestão de <i>cookies</i> e melhorar a conformidade com as leis de privacidade."
 
-#: site-health.php:113
+#: inc/class-wp-consent-api-site-health.php:113
 msgid "Not all plugins have declared to follow Consent API guidelines. Please contact the developer."
 msgstr "Nem todos os plugins declararam seguir as diretrizes da API Consent. Entre em contato com o desenvolvedor."
 
-#: site-health.php:112
+#: inc/class-wp-consent-api-site-health.php:112
 msgid "One or more plugins are not conforming to the Consent API."
 msgstr "Um ou mais plugins não estão em conformidade com a API Consent."
 
-#: site-health.php:104
+#: inc/class-wp-consent-api-site-health.php:104
 msgid "All plugins have declared in their code that they are following the guidelines from the WP Consent API. When used in combination with a Cookie Management plugin, this will improve compliancy for your site."
 msgstr "Todos os plugins declararam em seu código que estão seguindo as diretrizes da API WP Consent. Quando usado em conjunto com um plugin de gestão de <i>cookies</i>, melhora a conformidade do seu site em relação a LGPD."
 
-#: site-health.php:99
+#: inc/class-wp-consent-api-site-health.php:99
 msgid "Compliance"
 msgstr "Conformidade"
 
-#: site-health.php:96
+#: inc/class-wp-consent-api-site-health.php:96
 msgid "All plugins have declared to use the Consent API"
 msgstr "Todos os plugins declararam usar a API Consent"
 
-#: site-health.php:69
+#: inc/class-wp-consent-api-site-health.php:69
 msgid "WP Consent API test"
 msgstr "Teste do WP Consent API"
 
-#: wp-consent-api.php:58
-msgid "This plugin requires WordPress 5.0 or higher"
-msgstr "Este plugin requer a versão 5.0 ou superior do WordPress."
-
-#: wp-consent-api.php:53
-msgid "This plugin requires PHP 5.6 or higher"
-msgstr "Este plugin requer o PHP versão 5.6 ou superior"
-
 #. translators: %s the name of the PHP Class used.
-#: config.php:34 cookie-info.php:56 site-health.php:51
+#: inc/class-wp-consent-api-config.php:34
+#: inc/class-wp-consent-api-cookie-info.php:56
+#: inc/class-wp-consent-api-site-health.php:51
 msgid "%s is a singleton class and you cannot create a second instance."
 msgstr "%s é uma classe \"singleton\" e não é possível criar uma segunda instância."
-
-#. Author URI of the plugin
-#: wp-consent-api.php
-msgid "https://github.com/rlankhorst/wp-consent-level-api"
-msgstr "https://github.com/rlankhorst/wp-consent-level-api"
 
 #. Plugin URI of the plugin
 #: wp-consent-api.php

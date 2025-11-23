@@ -23,9 +23,11 @@ if ( ! defined( 'ABSPATH' ) ) {
  *
  * @internal
  */
-function cptui_support_enqueue_scripts( $hook ) {
+function cptui_support_enqueue_scripts() {
 
-	if ( 'cpt-ui_page_cptui_support' !== $hook ) {
+	$current_screen = get_current_screen();
+
+	if ( ! is_object( $current_screen ) || 'cpt-ui_page_cptui_support' !== $current_screen->base ) {
 		return;
 	}
 

@@ -1,0 +1,109 @@
+:root{--e-global-color-primary:#8D4D5D;--e-global-color-secondary:#222222;--e-global-color-text:#6B6668;--e-global-color-accent:#F7E4E7;--e-global-color-tertiary:#A5AEA8;--e-global-color-background:#ffffff;--e-global-color-alternate:#FCF4F6;--e-global-color-border:#EAE6E7;--e-global-color-03a7c7e:#F9E2E8;--e-global-typography-primary-font-family:"Butler Local";--e-global-typography-primary-font-weight:300;--e-global-typography-secondary-font-family:"Karla Local";--e-global-typography-secondary-font-weight:400;--e-global-typography-text-font-family:"Karla Local";--e-global-typography-text-font-size:18px;--e-global-typography-text-font-weight:300;--e-global-typography-text-text-transform:none;--e-global-typography-text-font-style:normal;--e-global-typography-text-text-decoration:none;--e-global-typography-text-line-height:1.45em;--e-global-typography-text-letter-spacing:0px;--e-global-typography-text-word-spacing:0px;--e-global-typography-accent-font-family:"Karla Local";--e-global-typography-accent-font-size:14px;--e-global-typography-accent-font-weight:500;--e-global-typography-accent-text-transform:uppercase;--e-global-typography-accent-font-style:normal;--e-global-typography-accent-text-decoration:none;--e-global-typography-accent-line-height:1.6em;--e-global-typography-accent-letter-spacing:2px;--e-global-typography-accent-word-spacing:0px;--e-global-typography-tertiary-font-family:"Karla Local";--e-global-typography-tertiary-font-size:15px;--e-global-typography-tertiary-font-weight:400;--e-global-typography-tertiary-text-transform:none;--e-global-typography-tertiary-font-style:normal;--e-global-typography-tertiary-text-decoration:none;--e-global-typography-tertiary-line-height:1.6em;--e-global-typography-tertiary-letter-spacing:0px;--e-global-typography-tertiary-word-spacing:0px;--e-global-typography-meta-font-family:"Karla Local";--e-global-typography-meta-font-size:14px;--e-global-typography-meta-font-weight:500;--e-global-typography-meta-text-transform:none;--e-global-typography-meta-font-style:normal;--e-global-typography-meta-text-decoration:none;--e-global-typography-meta-line-height:1.7em;--e-global-typography-meta-letter-spacing:0px;--e-global-typography-meta-word-spacing:0px;--e-global-typography-taxonomy-font-family:"Karla Local";--e-global-typography-taxonomy-font-size:13px;--e-global-typography-taxonomy-font-weight:700;--e-global-typography-taxonomy-text-transform:uppercase;--e-global-typography-taxonomy-font-style:normal;--e-global-typography-taxonomy-text-decoration:none;--e-global-typography-taxonomy-line-height:1.7em;--e-global-typography-taxonomy-letter-spacing:2px;--e-global-typography-taxonomy-word-spacing:0px;--e-global-typography-small-font-family:"Karla Local";--e-global-typography-small-font-size:15px;--e-global-typography-small-font-weight:300;--e-global-typography-small-text-transform:none;--e-global-typography-small-font-style:normal;--e-global-typography-small-text-decoration:none;--e-global-typography-small-line-height:1.75em;--e-global-typography-small-letter-spacing:0px;--e-global-typography-small-word-spacing:0px;--e-global-typography-h1-font-family:"Butler Local";--e-global-typography-h1-font-size:68px;--e-global-typography-h1-font-weight:300;--e-global-typography-h1-text-transform:none;--e-global-typography-h1-font-style:normal;--e-global-typography-h1-text-decoration:none;--e-global-typography-h1-line-height:1.1em;--e-global-typography-h1-letter-spacing:0px;--e-global-typography-h1-word-spacing:0px;--e-global-typography-h2-font-family:"Butler Local";--e-global-typography-h2-font-size:56px;--e-global-typography-h2-font-weight:300;--e-global-typography-h2-text-transform:none;--e-global-typography-h2-font-style:normal;--e-global-typography-h2-text-decoration:none;--e-global-typography-h2-line-height:1.15em;--e-global-typography-h2-letter-spacing:0px;--e-global-typography-h2-word-spacing:0px;--e-global-typography-h3-font-family:"Butler Local";--e-global-typography-h3-font-size:42px;--e-global-typography-h3-font-weight:300;--e-global-typography-h3-text-transform:none;--e-global-typography-h3-font-style:normal;--e-global-typography-h3-text-decoration:none;--e-global-typography-h3-line-height:1.2em;--e-global-typography-h3-letter-spacing:0px;--e-global-typography-h3-word-spacing:0px;--e-global-typography-h4-font-family:"Butler Local";--e-global-typography-h4-font-size:30px;--e-global-typography-h4-font-weight:300;--e-global-typography-h4-text-transform:none;--e-global-typography-h4-font-style:normal;--e-global-typography-h4-text-decoration:none;--e-global-typography-h4-line-height:1.25em;--e-global-typography-h4-letter-spacing:0px;--e-global-typography-h4-word-spacing:0px;--e-global-typography-h5-font-family:"Karla Local";--e-global-typography-h5-font-size:20px;--e-global-typography-h5-font-weight:400;--e-global-typography-h5-text-transform:none;--e-global-typography-h5-font-style:normal;--e-global-typography-h5-text-decoration:none;--e-global-typography-h5-line-height:1.45em;--e-global-typography-h5-letter-spacing:0px;--e-global-typography-h5-word-spacing:0px;--e-global-typography-h6-font-family:"Karla Local";--e-global-typography-h6-font-size:15px;--e-global-typography-h6-font-weight:400;--e-global-typography-h6-text-transform:uppercase;--e-global-typography-h6-font-style:normal;--e-global-typography-h6-text-decoration:none;--e-global-typography-h6-line-height:1.55em;--e-global-typography-h6-letter-spacing:2px;--e-global-typography-h6-word-spacing:0px;--e-global-typography-button-font-family:"Karla Local";--e-global-typography-button-font-size:14px;--e-global-typography-button-font-weight:700;--e-global-typography-button-text-transform:uppercase;--e-global-typography-button-font-style:normal;--e-global-typography-button-text-decoration:none;--e-global-typography-button-line-height:1.6em;--e-global-typography-button-letter-spacing:2px;--e-global-typography-button-word-spacing:0px;--e-global-typography-blockquote-font-family:"Butler Local";--e-global-typography-blockquote-font-size:30px;--e-global-typography-blockquote-font-weight:300;--e-global-typography-blockquote-text-transform:none;--e-global-typography-blockquote-font-style:normal;--e-global-typography-blockquote-text-decoration:none;--e-global-typography-blockquote-line-height:1.35em;--e-global-typography-blockquote-letter-spacing:0px;--e-global-typography-blockquote-word-spacing:0px;--e-global-typography-4ef5887-font-family:"Karla Local";--e-global-typography-4ef5887-font-size:20px;--e-global-typography-4ef5887-font-weight:300;--e-global-typography-4ef5887-text-transform:none;--e-global-typography-4ef5887-font-style:normal;--e-global-typography-4ef5887-text-decoration:none;--e-global-typography-4ef5887-line-height:1.5em;--e-global-typography-4ef5887-letter-spacing:0px;--e-global-typography-4ef5887-word-spacing:0px;--cmsmasters-lazyload-widget-preloader-bg-color:var( --e-global-color-alternate );--cmsmasters-single-nav-box-padding-top:30px;--cmsmasters-single-nav-box-padding-right:30px;--cmsmasters-single-nav-box-padding-bottom:30px;--cmsmasters-single-nav-box-padding-left:30px;--cmsmasters-lazyload-widget-preloader-icon-size:50px;--cmsmasters-lazyload-widget-preloader-icon-animation-type:lazyLoadWidgetSpinner;--cmsmasters-lazyload-widget-preloader-height:580px;--cmsmasters-lazyload-widget-preloader-bd-radius:20px;}:root e-page-transition{background-color:#FFBC7D;}.elementor-section.elementor-section-boxed > .elementor-container{max-width:1280px;}.e-con{--container-max-width:1280px;--container-default-padding-top:0px;--container-default-padding-right:0px;--container-default-padding-bottom:0px;--container-default-padding-left:0px;}.elementor-widget:not(:last-child){margin-block-end:20px;}.elementor-element{--widgets-spacing:20px 20px;}{}h1.entry-title{display:var(--page-title-display);}@media(max-width:1024px){:root{--e-global-typography-text-font-size:17px;--e-global-typography-accent-font-size:13px;--e-global-typography-tertiary-font-size:14px;--e-global-typography-meta-font-size:13px;--e-global-typography-taxonomy-font-size:12px;--e-global-typography-small-font-size:14px;--e-global-typography-h1-font-size:60px;--e-global-typography-h2-font-size:48px;--e-global-typography-h3-font-size:36px;--e-global-typography-h4-font-size:24px;--e-global-typography-h5-font-size:18px;--e-global-typography-h6-font-size:13px;--e-global-typography-button-font-size:13px;--e-global-typography-blockquote-font-size:26px;--e-global-typography-4ef5887-font-size:19px;}.elementor-section.elementor-section-boxed > .elementor-container{max-width:1024px;}.e-con{--container-max-width:1024px;}}@media(max-width:767px){:root{--e-global-typography-text-font-size:15px;--e-global-typography-accent-font-size:13px;--e-global-typography-tertiary-font-size:13px;--e-global-typography-meta-font-size:12px;--e-global-typography-taxonomy-font-size:11px;--e-global-typography-small-font-size:13px;--e-global-typography-h1-font-size:42px;--e-global-typography-h2-font-size:32px;--e-global-typography-h3-font-size:26px;--e-global-typography-h4-font-size:20px;--e-global-typography-h5-font-size:15px;--e-global-typography-h6-font-size:11px;--e-global-typography-button-font-size:12px;--e-global-typography-blockquote-font-size:20px;--e-global-typography-4ef5887-font-size:18px;}.elementor-section.elementor-section-boxed > .elementor-container{max-width:767px;}.e-con{--container-max-width:767px;}}/* Start local fonts styles */
+@font-face {
+	font-family: 'Butler Local';
+	font-weight: 300;
+	font-style: normal;
+	src: url('//soulmusa.com.br/wp-content/uploads/elementor/cmsmasters-local-fonts/butler_local/Butler-Light.woff2') format('woff2'),
+		url('//soulmusa.com.br/wp-content/uploads/elementor/cmsmasters-local-fonts/butler_local/Butler-Light.woff') format('woff');
+}
+
+@font-face {
+	font-family: 'Butler Local';
+	font-weight: normal;
+	font-style: normal;
+	src: url('//soulmusa.com.br/wp-content/uploads/elementor/cmsmasters-local-fonts/butler_local/Butler.woff2') format('woff2'),
+		url('//soulmusa.com.br/wp-content/uploads/elementor/cmsmasters-local-fonts/butler_local/Butler.woff') format('woff');
+}
+
+/* End local fonts styles */
+/* Start local fonts styles */
+@font-face {
+	font-family: 'Karla Local';
+	font-weight: 300;
+	font-style: normal;
+	src: url('//soulmusa.com.br/wp-content/uploads/elementor/cmsmasters-local-fonts/karla_local/Karla-Light.woff2') format('woff2'),
+		url('//soulmusa.com.br/wp-content/uploads/elementor/cmsmasters-local-fonts/karla_local/Karla-Light.woff') format('woff');
+}
+
+@font-face {
+	font-family: 'Karla Local';
+	font-weight: 400;
+	font-style: normal;
+	src: url('//soulmusa.com.br/wp-content/uploads/elementor/cmsmasters-local-fonts/karla_local/Karla-Regular.woff2') format('woff2'),
+		url('//soulmusa.com.br/wp-content/uploads/elementor/cmsmasters-local-fonts/karla_local/Karla-Regular.woff') format('woff');
+}
+
+@font-face {
+	font-family: 'Karla Local';
+	font-weight: 600;
+	font-style: normal;
+	src: url('//soulmusa.com.br/wp-content/uploads/elementor/cmsmasters-local-fonts/karla_local/Karla-SemiBold.woff2') format('woff2'),
+		url('//soulmusa.com.br/wp-content/uploads/elementor/cmsmasters-local-fonts/karla_local/Karla-SemiBold.woff') format('woff');
+}
+
+@font-face {
+	font-family: 'Karla Local';
+	font-weight: 500;
+	font-style: normal;
+	src: url('//soulmusa.com.br/wp-content/uploads/elementor/cmsmasters-local-fonts/karla_local/Karla-Medium.woff2') format('woff2'),
+		url('//soulmusa.com.br/wp-content/uploads/elementor/cmsmasters-local-fonts/karla_local/Karla-Medium.woff') format('woff');
+}
+
+@font-face {
+	font-family: 'Karla Local';
+	font-weight: bold;
+	font-style: normal;
+	src: url('//soulmusa.com.br/wp-content/uploads/elementor/cmsmasters-local-fonts/karla_local/Karla-Bold.woff2') format('woff2'),
+		url('//soulmusa.com.br/wp-content/uploads/elementor/cmsmasters-local-fonts/karla_local/Karla-Bold.woff') format('woff');
+}
+
+/* End local fonts styles */
+/* Start of your page custom CSS rules */ .infodetalhes {
+  position: relative;
+}
+
+.infodetalhes::after {
+  content: attr(data-tooltip);
+  position: absolute;
+  top: 129%;
+  left: 10%; 
+  transform: translateX(-60%); 
+  background-color: #f9f9f9;
+  border: 1px solid #ddd;
+  padding: 5px;
+  border-radius: 3px;
+  z-index: 999;
+  opacity: 0;
+  transition: opacity 0.3s ease-in-out;
+  width: 250px; 
+  max-height: 100px; 
+  overflow: hidden;
+  text-overflow: ellipsis;
+  word-wrap: break-word;
+}
+
+.infodetalhes:hover::after {
+  opacity: 1;
+}
+
+.info {
+  color: #999;
+  opacity: 0.2;
+}
+
+/* Modificação botão whatsapp pacotes */
+
+.elementor-price-table__button::before {
+  content: "";
+  display: inline-block;
+  width: 18px;
+  height: 18px;
+  background-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" fill="white" viewBox="0 0 448 512"><path d="M380.9 97.1C339 55.1 283.2 32 223.9 32c-122.4 0-222 99.6-222 222 0 39.1 10.2 77.3 29.6 111L0 480l117.7-30.9c32.4 17.7 68.9 27 106.1 27h.1c122.3 0 224.1-99.6 224.1-222 0-59.3-25.2-115-67.1-157zm-157 341.6c-33.2 0-65.7-8.9-94-25.7l-6.7-4-69.8 18.3L72 359.2l-4.4-7c-18.5-29.4-28.2-63.3-28.2-98.2 0-101.7 82.8-184.5 184.6-184.5 49.3 0 95.6 19.2 130.4 54.1 34.8 34.9 56.2 81.2 56.1 130.5 0 101.8-84.9 184.6-186.6 184.6zm101.2-138.2c-5.5-2.8-32.8-16.2-37.9-18-5.1-1.9-8.8-2.8-12.5 2.8-3.7 5.6-14.3 18-17.6 21.8-3.2 3.7-6.5 4.2-12 1.4-32.6-16.3-54-29.1-75.5-66-5.7-9.8 5.7-9.1 16.3-30.3 1.8-3.7.9-6.9-.5-9.7-1.4-2.8-12.5-30.1-17.1-41.2-4.5-10.8-9.1-9.3-12.5-9.5-3.2-.2-6.9-.2-10.6-.2-3.7 0-9.7 1.4-14.8 6.9-5.1 5.6-19.4 19-19.4 46.3 0 27.3 19.9 53.7 22.6 57.4 2.8 3.7 39.1 59.7 94.8 83.8 35.2 15.2 49 16.5 66.6 13.9 10.7-1.6 32.8-13.4 37.4-26.4 4.6-13 4.6-24.1 3.2-26.4-1.3-2.5-5-3.9-10.5-6.6z"/></svg>');
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-right: 8px;
+  vertical-align: middle;
+}
+
+
+/* fim customização botão whatsapp pacotes*/ /* End of your page custom CSS rules */

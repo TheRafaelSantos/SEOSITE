@@ -1,13 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//soulmusa.com.br/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
+		<loc>https://soulmusa.com.br/tratamentos-faciais/peeling-quimico/</loc>
+		<lastmod>2025-11-19T11:50:20+00:00</lastmod>
+		<image:image>
+			<image:loc>https://soulmusa.com.br/wp-content/uploads/2024/11/procedimento-peeling-quimico-clinica-soul-musa-vila-andrade.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://soulmusa.com.br/wp-content/uploads/2024/03/home-2-before-30x30.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://soulmusa.com.br/wp-content/uploads/2024/03/home-2-after-30x30.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>https://soulmusa.com.br/tratamentos-faciais/limpeza-de-pele-profunda/</loc>
-		<lastmod>2025-11-10T01:39:22+00:00</lastmod>
+		<lastmod>2025-11-18T14:40:20+00:00</lastmod>
 		<image:image>
 			<image:loc>https://soulmusa.com.br/wp-content/uploads/2024/11/limpeza-de-pele-perto-de-mim-clinica-de-estetica-soul-musa-vila-andrade-morumbi.webp</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>https://soulmusa.com.br/wp-content/uploads/2024/11/limpeza-de-pele-profunda-clinica-de-estetica-em-sao-paulo-Clinica-Soul-Musa-25x30.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://soulmusa.com.br/wp-content/uploads/2024/11/botox-vila-andrade-morumbi-perto-de-mim-clinica-soul-musa-1024x702.jpg.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://soulmusa.com.br/wp-content/uploads/2025/01/rejuvenecimento-facial-antes-e-depois-beneficios-30x21.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://soulmusa.com.br/wp-content/uploads/2025/11/mounjaro-tirzepatida-30x21.avif</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://soulmusa.com.br/wp-content/uploads/2024/11/procedimento-peeling-quimico-clinica-soul-musa-vila-andrade-30x21.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://soulmusa.com.br/tratamentos-faciais/despigmentacao-de-sobrancelha/</loc>
+		<lastmod>2025-11-16T18:28:13+00:00</lastmod>
+		<image:image>
+			<image:loc>https://soulmusa.com.br/wp-content/uploads/2024/11/despigmentacao-de-sobrancelha-clinica-de-estetica-soul-musa.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://soulmusa.com.br/wp-content/uploads/2024/11/despigmentacao-de-sobrancelha-clinica-de-estetica-soul-musa-detalhes-25x30.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://soulmusa.com.br/tratamentos-faciais/skinbooster/</loc>
+		<lastmod>2025-11-16T18:10:12+00:00</lastmod>
+		<image:image>
+			<image:loc>https://soulmusa.com.br/wp-content/uploads/2024/11/skinbooster-preco-clinica-de-estetica.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://soulmusa.com.br/wp-content/uploads/2024/11/skinbooster-preco-clinica-de-estetica-beneficios-1-25x30.webp</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>https://soulmusa.com.br/wp-content/uploads/2024/11/botox-vila-andrade-morumbi-perto-de-mim-clinica-soul-musa-1024x702.jpg.webp</image:loc>
@@ -23,40 +68,8 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://soulmusa.com.br/tratamentos-faciais/black-peel/</loc>
-		<lastmod>2025-11-07T02:50:48+00:00</lastmod>
-		<image:image>
-			<image:loc>https://soulmusa.com.br/wp-content/uploads/2025/10/Black-Peel-Benefits.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://soulmusa.com.br/wp-content/uploads/2025/10/black-peel-ou-peeling-de-hollywood-soul-musa-25x30.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://soulmusa.com.br/wp-content/uploads/2024/11/botox-vila-andrade-morumbi-perto-de-mim-clinica-soul-musa-1024x702.jpg.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://soulmusa.com.br/wp-content/uploads/2025/01/rejuvenecimento-facial-antes-e-depois-beneficios-30x21.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://soulmusa.com.br/wp-content/uploads/2024/11/limpeza-de-pele-perto-de-mim-clinica-de-estetica-soul-musa-vila-andrade-morumbi-30x21.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://soulmusa.com.br/wp-content/uploads/2024/11/procedimento-peeling-quimico-clinica-soul-musa-vila-andrade-30x21.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://soulmusa.com.br/tratamentos-faciais/bioestimulador-de-colageno/</loc>
-		<lastmod>2025-11-07T02:38:05+00:00</lastmod>
-		<image:image>
-			<image:loc>https://soulmusa.com.br/wp-content/uploads/2025/07/bioestimulador-de-colageno-em-sao-paulo.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://soulmusa.com.br/wp-content/uploads/2025/07/Sculptra-para-bioestimulador-de-colageno-25x30.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://soulmusa.com.br/tratamentos-faciais/tratamento-para-olheiras-e-bolsas/</loc>
-		<lastmod>2025-10-01T23:37:25+00:00</lastmod>
+		<lastmod>2025-11-16T18:09:11+00:00</lastmod>
 		<image:image>
 			<image:loc>https://soulmusa.com.br/wp-content/uploads/2024/11/tratamento-para-olheiras-antes-e-depois-soul-musa.webp</image:loc>
 		</image:image>
@@ -83,13 +96,23 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://soulmusa.com.br/tratamentos-faciais/skinbooster/</loc>
-		<lastmod>2025-10-01T23:37:14+00:00</lastmod>
+		<loc>https://soulmusa.com.br/tratamentos-faciais/microagulhamento-facial/</loc>
+		<lastmod>2025-11-16T18:07:36+00:00</lastmod>
 		<image:image>
-			<image:loc>https://soulmusa.com.br/wp-content/uploads/2024/11/skinbooster-preco-clinica-de-estetica.webp</image:loc>
+			<image:loc>https://soulmusa.com.br/wp-content/uploads/2024/11/microagulhamento-facial-clinica-soul-musa-vila-andrade.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://soulmusa.com.br/wp-content/uploads/2024/11/skinbooster-preco-clinica-de-estetica-beneficios-1-25x30.webp</image:loc>
+			<image:loc>https://soulmusa.com.br/wp-content/uploads/2024/11/microagulhamento-facial-morumbi-sao-paulo-25x30.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://soulmusa.com.br/tratamentos-faciais/black-peel/</loc>
+		<lastmod>2025-11-16T18:00:01+00:00</lastmod>
+		<image:image>
+			<image:loc>https://soulmusa.com.br/wp-content/uploads/2025/10/Black-Peel-Benefits.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://soulmusa.com.br/wp-content/uploads/2025/10/black-peel-ou-peeling-de-hollywood-soul-musa-25x30.webp</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>https://soulmusa.com.br/wp-content/uploads/2024/11/botox-vila-andrade-morumbi-perto-de-mim-clinica-soul-musa-1024x702.jpg.webp</image:loc>
@@ -98,15 +121,61 @@
 			<image:loc>https://soulmusa.com.br/wp-content/uploads/2025/01/rejuvenecimento-facial-antes-e-depois-beneficios-30x21.webp</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://soulmusa.com.br/wp-content/uploads/2024/11/tatamento-jato-de-plasma-clinica-soul-musa-1-30x21.webp</image:loc>
+			<image:loc>https://soulmusa.com.br/wp-content/uploads/2024/11/limpeza-de-pele-perto-de-mim-clinica-de-estetica-soul-musa-vila-andrade-morumbi-30x21.webp</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>https://soulmusa.com.br/wp-content/uploads/2024/11/procedimento-peeling-quimico-clinica-soul-musa-vila-andrade-30x21.webp</image:loc>
 		</image:image>
 	</url>
 	<url>
+		<loc>https://soulmusa.com.br/tratamentos-faciais/drenagem-facial-pos-operatoria/</loc>
+		<lastmod>2025-11-16T17:51:09+00:00</lastmod>
+		<image:image>
+			<image:loc>https://soulmusa.com.br/wp-content/uploads/2024/11/drenagem-facial-clinica-de-estetica-vila-andrade-1024x702.jpg-1.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://soulmusa.com.br/wp-content/uploads/2024/11/drenagem-linfatica-facial-25x30.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://soulmusa.com.br/tratamentos-faciais/bioestimulador-de-colageno/</loc>
+		<lastmod>2025-11-16T17:23:49+00:00</lastmod>
+		<image:image>
+			<image:loc>https://soulmusa.com.br/wp-content/uploads/2025/07/bioestimulador-de-colageno-em-sao-paulo.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://soulmusa.com.br/wp-content/uploads/2025/07/Sculptra-para-bioestimulador-de-colageno-25x30.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://soulmusa.com.br/tratamentos-faciais/jato-de-plasma/</loc>
+		<lastmod>2025-11-16T17:11:07+00:00</lastmod>
+		<image:image>
+			<image:loc>https://soulmusa.com.br/wp-content/uploads/2024/11/tatamento-jato-de-plasma-clinica-soul-musa-1.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://soulmusa.com.br/wp-content/uploads/2024/11/clinica-que-aplica-jato-de-plasma-em-sao-paulo-vila-andrade-webp-25x30.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://soulmusa.com.br/wp-content/uploads/2024/11/JATO-DE-PLASMA-ANTES-clinica-soul-musa-jato-de-plasma-30x20.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://soulmusa.com.br/wp-content/uploads/2024/11/JATO-DE-PLASMA-DEPOIS-clinica-soul-musa-30x20.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://soulmusa.com.br/tratamentos-faciais/drenagem-facial/</loc>
+		<lastmod>2025-11-16T17:07:08+00:00</lastmod>
+		<image:image>
+			<image:loc>https://soulmusa.com.br/wp-content/uploads/2024/11/drenagem-facial-clinica-de-estetica-vila-andrade-1024x702.jpg-1.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://soulmusa.com.br/wp-content/uploads/2024/11/drenagem-linfatica-facial-25x30.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>https://soulmusa.com.br/tratamentos-faciais/rejuvenescimento-facial/</loc>
-		<lastmod>2025-10-01T23:36:55+00:00</lastmod>
+		<lastmod>2025-11-16T17:04:29+00:00</lastmod>
 		<image:image>
 			<image:loc>https://soulmusa.com.br/wp-content/uploads/2025/01/rejuvenecimento-facial-antes-e-depois-beneficios.webp</image:loc>
 		</image:image>
@@ -119,32 +188,12 @@
 	</url>
 	<url>
 		<loc>https://soulmusa.com.br/tratamentos-faciais/hydra-gloss-lips/</loc>
-		<lastmod>2025-10-01T23:36:28+00:00</lastmod>
+		<lastmod>2025-11-16T17:02:35+00:00</lastmod>
 		<image:image>
 			<image:loc>https://soulmusa.com.br/wp-content/uploads/2024/11/hydra-gloss-hidragloss-clinica-soul-musa-dra-aline-almeida.jpg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>https://soulmusa.com.br/wp-content/uploads/2024/11/hydra-gloss-antes-e-depois-25x30.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://soulmusa.com.br/tratamentos-faciais/drenagem-facial-pos-operatoria/</loc>
-		<lastmod>2025-10-01T23:36:16+00:00</lastmod>
-		<image:image>
-			<image:loc>https://soulmusa.com.br/wp-content/uploads/2024/11/drenagem-facial-clinica-de-estetica-vila-andrade-1024x702.jpg-1.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://soulmusa.com.br/wp-content/uploads/2024/11/drenagem-linfatica-facial-25x30.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://soulmusa.com.br/tratamentos-faciais/drenagem-facial/</loc>
-		<lastmod>2025-10-01T23:36:05+00:00</lastmod>
-		<image:image>
-			<image:loc>https://soulmusa.com.br/wp-content/uploads/2024/11/drenagem-facial-clinica-de-estetica-vila-andrade-1024x702.jpg-1.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://soulmusa.com.br/wp-content/uploads/2024/11/drenagem-linfatica-facial-25x30.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -173,19 +222,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://soulmusa.com.br/tratamentos-faciais/peeling-quimico/</loc>
-		<lastmod>2025-08-21T17:29:54+00:00</lastmod>
-		<image:image>
-			<image:loc>https://soulmusa.com.br/wp-content/uploads/2024/11/procedimento-peeling-quimico-clinica-soul-musa-vila-andrade.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://soulmusa.com.br/wp-content/uploads/2024/03/home-2-before-30x30.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://soulmusa.com.br/wp-content/uploads/2024/03/home-2-after-30x30.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://soulmusa.com.br/tratamentos-faciais/botox/</loc>
 		<lastmod>2025-08-04T14:19:15+00:00</lastmod>
 		<image:image>
@@ -193,42 +229,6 @@
 		</image:image>
 		<image:image>
 			<image:loc>https://soulmusa.com.br/wp-content/uploads/2024/11/botox-toxina-botulinica-1-25x30.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://soulmusa.com.br/tratamentos-faciais/despigmentacao-de-sobrancelha/</loc>
-		<lastmod>2025-07-29T04:36:33+00:00</lastmod>
-		<image:image>
-			<image:loc>https://soulmusa.com.br/wp-content/uploads/2024/11/despigmentacao-de-sobrancelha-clinica-de-estetica-soul-musa.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://soulmusa.com.br/wp-content/uploads/2024/11/despigmentacao-de-sobrancelha-clinica-de-estetica-soul-musa-detalhes-25x30.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://soulmusa.com.br/tratamentos-faciais/microagulhamento-facial/</loc>
-		<lastmod>2025-07-12T05:58:22+00:00</lastmod>
-		<image:image>
-			<image:loc>https://soulmusa.com.br/wp-content/uploads/2024/11/microagulhamento-facial-clinica-soul-musa-vila-andrade.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://soulmusa.com.br/wp-content/uploads/2024/11/microagulhamento-facial-morumbi-sao-paulo-25x30.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://soulmusa.com.br/tratamentos-faciais/jato-de-plasma/</loc>
-		<lastmod>2025-07-12T05:52:35+00:00</lastmod>
-		<image:image>
-			<image:loc>https://soulmusa.com.br/wp-content/uploads/2024/11/tatamento-jato-de-plasma-clinica-soul-musa-1.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://soulmusa.com.br/wp-content/uploads/2024/11/clinica-que-aplica-jato-de-plasma-em-sao-paulo-vila-andrade-webp-25x30.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://soulmusa.com.br/wp-content/uploads/2024/11/JATO-DE-PLASMA-ANTES-clinica-soul-musa-jato-de-plasma-30x20.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://soulmusa.com.br/wp-content/uploads/2024/11/JATO-DE-PLASMA-DEPOIS-clinica-soul-musa-30x20.webp</image:loc>
 		</image:image>
 	</url>
 </urlset>

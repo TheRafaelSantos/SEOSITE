@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://soulmusa.com.br/</loc>
-		<lastmod>2025-11-07T01:51:54+00:00</lastmod>
+		<lastmod>2025-11-17T03:42:34+00:00</lastmod>
 		<image:image>
 			<image:loc>https://soulmusa.com.br/wp-content/uploads/2024/03/circle-3-1.svg</image:loc>
 		</image:image>
@@ -18,6 +18,14 @@
 		<image:image>
 			<image:loc>https://soulmusa.com.br/wp-content/uploads/2024/12/Assinatura-Aline-Almeida.svg</image:loc>
 		</image:image>
+	</url>
+	<url>
+		<loc>https://soulmusa.com.br/tratamentos-e-servicos/</loc>
+		<lastmod>2025-11-17T03:48:13+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://soulmusa.com.br/tratamentos-corporais/</loc>
+		<lastmod>2025-11-17T03:46:21+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://soulmusa.com.br/tratamentos-faciais/</loc>
@@ -57,13 +65,5 @@
 	<url>
 		<loc>https://soulmusa.com.br/pos-operatorio/</loc>
 		<lastmod>2025-06-16T15:11:26+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://soulmusa.com.br/tratamentos-corporais/</loc>
-		<lastmod>2025-03-15T15:46:56+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://soulmusa.com.br/tratamentos-e-servicos/</loc>
-		<lastmod>2025-03-15T15:35:25+00:00</lastmod>
 	</url>
 </urlset>

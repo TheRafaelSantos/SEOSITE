@@ -47,6 +47,17 @@ RewriteCond %{HTTP_USER_AGENT} Mobile|Android|Silk/|Kindle|BlackBerry|Opera\ Min
 RewriteRule .* - [E=Cache-Control:vary=%{ENV:LSCACHE_VARY_VALUE}+ismobile]
 ### marker MOBILE end ###
 
+### marker WEBP start ###
+RewriteCond %{HTTP_ACCEPT} "image/webp"
+RewriteRule .* - [E=Cache-Control:vary=%{ENV:LSCACHE_VARY_VALUE}+webp]
+RewriteCond %{HTTP_USER_AGENT} iPhone.*Version/(\d{2}).*Safari
+RewriteCond %1 >13
+RewriteRule .* - [E=Cache-Control:vary=%{ENV:LSCACHE_VARY_VALUE}+webp]
+RewriteCond %{HTTP_USER_AGENT} Firefox/([0-9]+)
+RewriteCond %1 >=65
+RewriteRule .* - [E=Cache-Control:vary=%{ENV:LSCACHE_VARY_VALUE}+webp]
+### marker WEBP end ###
+
 ### marker DROPQS start ###
 CacheKeyModify -qs:fbclid
 CacheKeyModify -qs:gclid

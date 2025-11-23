@@ -1,6 +1,7 @@
 <?php
 define( 'WP_CACHE', true );
 
+
  // Added by WP Rocket
 
 define('DISABLE_WP_CRON', true);

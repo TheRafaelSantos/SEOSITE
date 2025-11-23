@@ -1,18 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//soulmusa.com.br/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>https://soulmusa.com.br/tratamento-corporal/tratamentos-para-gordura-localizada/</loc>
-		<lastmod>2025-11-07T02:52:23+00:00</lastmod>
-		<image:image>
-			<image:loc>https://soulmusa.com.br/wp-content/uploads/2024/12/hidrolipoclasia-nao-aspirativa-lipo-sem-cortes-clinica-soul-musa.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://soulmusa.com.br/wp-content/uploads/2024/12/hidrolipoclasia-nao-aspirativa-lipo-sem-cortes-aparelho-clinica-de-estetica-soul-musa-25x30.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://soulmusa.com.br/tratamento-corporal/massagem-relaxante/</loc>
-		<lastmod>2025-11-07T02:51:26+00:00</lastmod>
+		<lastmod>2025-11-19T11:42:16+00:00</lastmod>
 		<image:image>
 			<image:loc>https://soulmusa.com.br/wp-content/uploads/2024/12/massagem-relaxante-perto-de-mim-vila-andrade-morumbi-sao-paulo-morumbi.webp</image:loc>
 		</image:image>
@@ -21,18 +11,18 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://soulmusa.com.br/tratamento-corporal/tratamento-para-estrias/</loc>
-		<lastmod>2025-07-12T07:02:39+00:00</lastmod>
+		<loc>https://soulmusa.com.br/tratamento-corporal/mounjaro/</loc>
+		<lastmod>2025-11-17T04:28:37+00:00</lastmod>
 		<image:image>
-			<image:loc>https://soulmusa.com.br/wp-content/uploads/2024/12/tratamento-para-estrias-clinica-soul-musa-vila-andrade-morumbi-sao-paulo-1024x702-clinica-de-estetica-em-sao-paulo.webp</image:loc>
+			<image:loc>https://soulmusa.com.br/wp-content/uploads/2025/11/mounjaro-tirzepatida.avif</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://soulmusa.com.br/wp-content/uploads/2024/12/tratamento-para-estrias-clinica-soul-musa-vila-andrade-morumbi-sao-paulo-detalhes-perto-de-mim-soul-musa-25x30.webp</image:loc>
+			<image:loc>https://soulmusa.com.br/wp-content/uploads/2025/11/mounjaro-antes-e-depois-25x30.avif</image:loc>
 		</image:image>
 	</url>
 	<url>
 		<loc>https://soulmusa.com.br/tratamento-corporal/drenagem-linfatica/</loc>
-		<lastmod>2025-07-12T06:28:01+00:00</lastmod>
+		<lastmod>2025-11-16T18:11:22+00:00</lastmod>
 		<image:image>
 			<image:loc>https://soulmusa.com.br/wp-content/uploads/2024/12/drenagem-linfatica-clinica-de-estetica-vila-andrade.jpg</image:loc>
 		</image:image>
@@ -42,12 +32,32 @@
 	</url>
 	<url>
 		<loc>https://soulmusa.com.br/tratamento-corporal/drenagem-linfatica-pos-operatoria/</loc>
-		<lastmod>2025-07-12T06:15:42+00:00</lastmod>
+		<lastmod>2025-11-16T17:53:18+00:00</lastmod>
 		<image:image>
 			<image:loc>https://soulmusa.com.br/wp-content/uploads/2024/12/drenagem-linfatica-clinica-de-estetica-vila-andrade.jpg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>https://soulmusa.com.br/wp-content/uploads/2024/12/drenagem-linfatica-soul-musa-perto-de-mim-vila-andrade-25x30.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://soulmusa.com.br/tratamento-corporal/tratamento-para-estrias/</loc>
+		<lastmod>2025-11-16T17:43:23+00:00</lastmod>
+		<image:image>
+			<image:loc>https://soulmusa.com.br/wp-content/uploads/2024/12/tratamento-para-estrias-clinica-soul-musa-vila-andrade-morumbi-sao-paulo-1024x702-clinica-de-estetica-em-sao-paulo.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://soulmusa.com.br/wp-content/uploads/2024/12/tratamento-para-estrias-clinica-soul-musa-vila-andrade-morumbi-sao-paulo-detalhes-perto-de-mim-soul-musa-25x30.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://soulmusa.com.br/tratamento-corporal/tratamentos-para-gordura-localizada/</loc>
+		<lastmod>2025-11-16T17:25:57+00:00</lastmod>
+		<image:image>
+			<image:loc>https://soulmusa.com.br/wp-content/uploads/2024/12/hidrolipoclasia-nao-aspirativa-lipo-sem-cortes-clinica-soul-musa.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://soulmusa.com.br/wp-content/uploads/2024/12/hidrolipoclasia-nao-aspirativa-lipo-sem-cortes-aparelho-clinica-de-estetica-soul-musa-25x30.webp</image:loc>
 		</image:image>
 	</url>
 </urlset>

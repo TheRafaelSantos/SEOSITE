@@ -1,17 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//soulmusa.com.br/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
+		<loc>https://soulmusa.com.br/black-peel-peeling-de-hollywood/</loc>
+		<lastmod>2025-11-19T11:47:03+00:00</lastmod>
+		<image:image>
+			<image:loc>https://soulmusa.com.br/wp-content/uploads/2025/11/black-peel-em-sao-paulo-soul-musa.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://soulmusa.com.br/hidrolipoclasia-tratamento-para-perder-gordura/</loc>
+		<lastmod>2025-11-16T18:27:08+00:00</lastmod>
+		<image:image>
+			<image:loc>https://soulmusa.com.br/wp-content/uploads/2025/03/Como-Perder-Gordura-Localizada-Conquiste-o-Corpo-dos-Seus-Sonhos-Sem-Cirurgia-e-com-Resultados-Visiv.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://soulmusa.com.br/blefaroplastia-sem-corte-rejuvenesca/</loc>
+		<lastmod>2025-11-16T18:26:51+00:00</lastmod>
+		<image:image>
+			<image:loc>https://soulmusa.com.br/wp-content/uploads/2025/03/Blefaroplastia-Sem-Corte-rejuvenescimento-facial.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://soulmusa.com.br/tratamento-para-clarealmento-de-olheiras/</loc>
+		<lastmod>2025-11-16T18:26:14+00:00</lastmod>
+		<image:image>
+			<image:loc>https://soulmusa.com.br/wp-content/uploads/2025/03/tratamento-para-olheiras-antes-e-depois-clinica-soul-musa.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>https://soulmusa.com.br/hidragloss-lips-labios-dos-sonhos/</loc>
 		<lastmod>2025-11-03T14:57:30+00:00</lastmod>
 		<image:image>
 			<image:loc>https://soulmusa.com.br/wp-content/uploads/2025/03/hydra-gloss-hidragloss-clinica-soul-musa-dra-aline-almeida.jpg.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://soulmusa.com.br/black-peel-peeling-de-hollywood/</loc>
-		<lastmod>2025-11-01T03:26:14+00:00</lastmod>
-		<image:image>
-			<image:loc>https://soulmusa.com.br/wp-content/uploads/2025/11/black-peel-em-sao-paulo-soul-musa.webp</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -47,27 +68,6 @@
 		<lastmod>2025-07-31T00:56:32+00:00</lastmod>
 		<image:image>
 			<image:loc>https://soulmusa.com.br/wp-content/uploads/2025/03/tratamento-para-cicatriz-de-acne-clinica-de-estetica-SOUL-MUSA-SAO-PAULO.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://soulmusa.com.br/blefaroplastia-sem-corte-rejuvenesca/</loc>
-		<lastmod>2025-07-31T00:56:15+00:00</lastmod>
-		<image:image>
-			<image:loc>https://soulmusa.com.br/wp-content/uploads/2025/03/Blefaroplastia-Sem-Corte-rejuvenescimento-facial.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://soulmusa.com.br/tratamento-para-clarealmento-de-olheiras/</loc>
-		<lastmod>2025-07-31T00:56:06+00:00</lastmod>
-		<image:image>
-			<image:loc>https://soulmusa.com.br/wp-content/uploads/2025/03/tratamento-para-olheiras-antes-e-depois-clinica-soul-musa.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://soulmusa.com.br/hidrolipoclasia-tratamento-para-perder-gordura/</loc>
-		<lastmod>2025-07-31T00:55:53+00:00</lastmod>
-		<image:image>
-			<image:loc>https://soulmusa.com.br/wp-content/uploads/2025/03/Como-Perder-Gordura-Localizada-Conquiste-o-Corpo-dos-Seus-Sonhos-Sem-Cirurgia-e-com-Resultados-Visiv.webp</image:loc>
 		</image:image>
 	</url>
 	<url>

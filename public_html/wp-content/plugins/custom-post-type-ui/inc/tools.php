@@ -23,9 +23,10 @@ if ( ! defined( 'ABSPATH' ) ) {
  *
  * @return void
  */
-function cptui_tools_assets( $hook ) {
+function cptui_tools_assets() {
+	$current_screen = get_current_screen();
 
-	if ( 'cpt-ui_page_cptui_tools' !== $hook ) {
+	if ( ! is_object( $current_screen ) || 'cpt-ui_page_cptui_tools' !== $current_screen->base ) {
 		return;
 	}
 

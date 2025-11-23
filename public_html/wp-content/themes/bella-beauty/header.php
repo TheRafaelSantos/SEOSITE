@@ -50,7 +50,6 @@ if ( ! defined( 'ABSPATH' ) ) {
     height="0" width="0" style="display:none;visibility:hidden"></iframe>
   </noscript>
   <!-- End Google Tag Manager (noscript) -->
-
   <?php
   if (
     ( ! function_exists( 'cmsmasters_template_do_location' ) || ! cmsmasters_template_do_location( 'header' ) ) &&
